@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "BananaPeel.aternos.me
+",
+    "port": 18514,
     "version": "",
     "try-creative": false
   },
